@@ -51,6 +51,6 @@ nav:
     url: /contacto
 
   - title: Donaciones
-    url: /[donaciones](https://ko-fi.com/vanchesv)
+    url: /(https://ko-fi.com/vanchesv)
 
 paginate_path: "/baseurl/page:num/"
