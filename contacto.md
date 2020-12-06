@@ -5,6 +5,5 @@ title: Contacto
 
 # Contacto
 
-- Email
-- Twitter
-- Instagram
+- Email: vanchesv@protonmail.com
+- Twitter: [@elvanches](https://twitter.com/elvanches)
