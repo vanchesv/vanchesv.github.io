@@ -5,7 +5,7 @@ title: Publicaciones
 
 # Archivos
 
-Aquí tienes todos los documentos ordenados por mes y año.
+Aquí puedes acceder a todos los documentos ordenados por mes y año.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
