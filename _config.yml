@@ -46,3 +46,5 @@ nav:
 
   - title: About
     url: /about
+
+paginate_path: "/baseurl/page:num/"
