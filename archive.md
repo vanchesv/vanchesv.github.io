@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Archive
+title: Publicaciones
 ---
 
-# Archive
+# Publicaciones
 
 Accede a todos los documentos por mes y año.
 
