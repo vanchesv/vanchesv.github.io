@@ -47,4 +47,7 @@ nav:
   - title: About
     url: /about
 
+  - title: Contacto
+    url: /contacto
+
 paginate_path: "/baseurl/page:num/"
