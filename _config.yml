@@ -41,7 +41,7 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Publicaciones
     url: /archive
 
   - title: Proyecto
@@ -49,5 +49,8 @@ nav:
 
   - title: Contacto
     url: /contacto
+
+  -title: Donaciones
+    url: (https://ko-fi.com/vanchesv)
 
 paginate_path: "/baseurl/page:num/"
