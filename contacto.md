@@ -5,7 +5,7 @@ title: Contacto
 
 # Contacto
 
-- Email: vanchesv@protonmail.com
+- Email: <vanchesv@protonmail.com>
 
 # Redes sociales
 
