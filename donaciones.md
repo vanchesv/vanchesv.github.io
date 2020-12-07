@@ -4,3 +4,5 @@ title: Donaciones
 ---
 
 ¡Si quieres apoyar este protecto puede comprarme un café en [kofi](https://ko-fi.com/vanchesv)!
+
+![Link para donaciones]("D:\01 - Laboratorio\Support Kofi.png")
