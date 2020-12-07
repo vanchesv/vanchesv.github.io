@@ -5,4 +5,4 @@ title: Donaciones
 
 ¡Si quieres apoyar este protecto puede comprarme un café en [kofi](https://ko-fi.com/vanchesv)!
 
-<img src="_imagenes\supkofi.jpg">
+<img src="\supkofi.jpg">
