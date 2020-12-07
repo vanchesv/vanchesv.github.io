@@ -31,8 +31,8 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author: Iván Ortega Martín
-  name: Iván Ortega Martín
+author:
+  name: Iván Ortega
   url: https://twitter.com/elvanches
   email: vanchesv@protonmail.com
 
