@@ -3,6 +3,18 @@ layout: default
 title: El proyecto
 ---
 
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GPD6K1RZ9H"></script>
+	<script>
+ 	 window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'G-GPD6K1RZ9H');
+	</script>
+</head>
+
 # ¿Qué es EGHYA?
 
 EGHYA es un blog de worldbuilding y narración. Aquí se hablará sobre el Mundo de Cristal y las criaturas que lo habitan, pero también se contarán las historias de aquellos que osan desafiar al Destino.
