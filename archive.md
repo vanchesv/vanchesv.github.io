@@ -6,7 +6,7 @@ description: Accede a todas las publicaciones de EGHYA
 
 # Archivos
 
-Aquí puedes acceder a todos los documentos ordenados por mes y año.
+> En esta sección puedes acceder a todas las publicaciones ordenadas por mes y año.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
