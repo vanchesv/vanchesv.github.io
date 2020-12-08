@@ -4,7 +4,7 @@ title: Contacto
 description: Correo y redes sociales de Iván O.M. autor de EGHYA
 ---
 
-Puedes ponerte en contacto conmigo a través de mi correo electrónico <vanchesv@protonmail.com>.
+Puedes ponerte en contacto conmigo a través de mi correo electrónico <vanchesv@protonmail.com>
 
 ¡No olvides seguirme en redes sociales!
 
