@@ -24,7 +24,10 @@ layout: default
 </aside>
 {% endif %}
 
-var langName = 'es',
+
+<script>
+
+    var langName = 'es',
     langMode = {  
         "nick": "Apodo",
         "mail": "E-Mail",
@@ -59,8 +62,6 @@ var langName = 'es',
         "code-403": "Access denied by API domain white list, Please check your security domain."
     };
 
-
-<script>
     var valine = new Valine();
     valine.init({
         el:'#vcomment',
