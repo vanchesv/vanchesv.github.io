@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publicaciones
+description: Accede a todas las publicaciones de EGHYA
 ---
 
 # Archivos

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: El proyecto
+description: Qué es EGHYA y quién es su autor
 ---
 
 # ¿Qué es EGHYA?

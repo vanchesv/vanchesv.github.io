@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Avisos
+description: Próximas publicaciones, actualizaciones y avisos importantes de EGHYA
 ---
 
 # Próximas publicaciones
