@@ -19,5 +19,3 @@ La música, el anime y los videojuegos son parte de su día a día, influyendo n
 <a href='https://ko-fi.com/E1E7156F0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 >Todo el contenido de este blog está bajo una [Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/). Para más información pulse en [este enlace](https://creativecommons.org/licenses/by-nc-nd/4.0/) o en la imagen a continuación.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
