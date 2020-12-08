@@ -50,5 +50,5 @@ nav:
   - title: Contacto
     url: /contacto
 
-  - title: Donaciones
-    url: /donaciones
+  -title: Avisos
+    url: /avisos
