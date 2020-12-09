@@ -10,9 +10,9 @@ description: Próximas publicaciones, actualizaciones y avisos importantes de EG
 >
 >En esta sección se avisará del próximo contenido.
 
-#### 14/12/2020 - *Las dos voces del universo (Tiempo)*
+### 14/12/2020 - *Las dos voces del universo (Tiempo)*
 
-##### 18/12/2020 - El Mundo de Cristal
+### 18/12/2020 - El Mundo de Cristal
 
 # Actualizaciones
 
