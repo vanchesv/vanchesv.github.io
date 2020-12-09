@@ -14,7 +14,7 @@ Puedes ponerte en contacto conmigo a través de mi correo electrónico <vanchesv
 - Instagram: [@elvanches](https://www.instagram.com/elvanches/)
 - CuriousCat: [elvanches](https://curiouscat.qa/elvanches)
 
-> Para un acceso más rápido a todas mis plataformas, puedes utilizar mi [Carrd]
+> Para un acceso más rápido a todas mis plataformas, puedes utilizar mi [Carrd](https://elvanches.carrd.co)
 
 ***
 
