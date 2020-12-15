@@ -44,3 +44,56 @@ description: EGHYA es un blog de worldbuilding y narración escrito por Iván O.
     gtag('config', 'G-GPD6K1RZ9H');
   </script>
 </head>
+
+<head>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+</head>
+<body>
+  <div id="vcomment"></div>
+  <script>
+    var langName = 'es',
+    langMode = {  
+        "nick": "Apodo",
+        "mail": "E-Mail",
+        "link": "Website(http://)",
+        "nickFail":"El apodo no puede tener menos de 3 caracteres.",
+        "mailFail":"Por favor confirme su E-Mail.",
+        "sofa": "Aún no hay comentarios",
+        "submit": "Enviar",
+        "reply": "Responder",
+        "cancelReply": "Cancelar respuesta",
+        "comments": "Comentarios",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "continue": "Continuar",
+        "more": "Cargar más...",
+        "preview": "Previsualizar",
+        "emoji": "Emoji",
+        "expand": "Ver más...",
+        "seconds": "segundos",
+        "minutes": "minutos",
+        "hours": "horas",
+        "days": "días",
+        "now": "justo ahora",
+        "uploading":"Cargando...",
+        "uploadDone":"Carga completada",
+        "busy":"El servidor está saturado, espere por favor",
+        "code-98":"Valine initialization failed, please check your version of av-min.js.",
+        "code-99": "Valine initialization failed, Please check the `el` element in the init method.",
+        "code-100": "Valine initialization failed, Please check your appId and appKey.",
+        "code-140":"The total number of API calls today has exceeded the development version limit.",
+        "code-401": "Unauthorized operation, Please check your appId and appKey.",
+        "code-403": "Access denied by API domain white list, Please check your security domain."
+    };
+
+    var valine = new Valine();
+    valine.init({
+        el:'#vcomment',
+        appId:'alYeph0WYsjadORtFBsouuH2-MdYXbMMI',
+        appKey:'YTBvuc66LM3elg7RhcrrqSQ2',
+        placeholder:'¡Deja un comentario!',
+        lang:'es',
+        langMode: langMode
+    })
+  </script>
