@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Las dos voces del universo - Tiempo
+title: Las dos voces del universo (Tiempo)
 description: Ha llegado del momento
 ---
 La puerta se abre sin hacer ruido, interrumpiendo las paredes blancas del salón. El otro lado se borra rápidamente cuando su figura entra, aún más silenciosa, a la estancia. Sus pies no rozan el mármol, tampoco lo hacen los bordados de su falda, ni su tercer par de alas, reposando junto a las caderas, abrazándolas. Parece desconcertado, perdido, olvidado. Su medio casco solo deja ver una expresión incierta en sus labios, algo fruncidos, tal vez intentando saborear cuándo fue la última vez que había estado en mi presencia.
