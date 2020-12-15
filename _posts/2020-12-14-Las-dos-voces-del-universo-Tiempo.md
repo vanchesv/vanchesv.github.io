@@ -35,7 +35,7 @@ La primera vez que llegó el momento decidió volver a empezar. La segunda, desa
 
 *"Quiero pedirte perdón."*
 
-*"¿Perdón por qué?2*
+*"¿Perdón por qué?"*
 
 *"Aún no lo sé."*
 
