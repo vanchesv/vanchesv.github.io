@@ -72,7 +72,7 @@ Solo queda la falda, sujeta a duras penas por el broche de cristal. En un susurr
 
 *"Porque nunca sentiste que tú fueras suficiente; pero no es cierto. Todos merecemos vivir, y todo lo que sentimos está bien, todo lo que pensamos, también. Estamos en este lugar por algún motivo, y no tenemos que cuestionar si realmente lo merecemos, porque solo por haber comenzado a existir ya hemos ganado ese derecho. Todo lo que sucede a nuestro alrededor seguirá ocurriendo, da igual lo que pensemos o sintamos, siempre estará ahí porque siempre lo ha estado. Las decisiones que tomemos siempre serán las adecuadas, porque seremos nosotros quien las tome."*
 
-*"Y si las consecuencias que estas crean no son lo que esperábamos, seguirá estando en nuestra mano volver tomarlas."*
+*"Y si las consecuencias que estas crean no son lo que esperábamos, seguirá estando en nuestra mano volver a tomarlas."*
 
 *"Porque nada termina por un error."*
 
