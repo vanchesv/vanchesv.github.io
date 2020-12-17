@@ -42,7 +42,7 @@ La primera vez que llegó el momento decidió volver a empezar. La segunda, desa
 *"Está bien."*
 
 
-Suaves ondas nacen con cada paso que da. Su largo pelo se mece entre las plumas, reconociéndose por ese brillo rojizo justo antes de desaparecer entre la noche. Con un suspiro guarda sus alas y se deja caer sobre la silla, frente a mí, sujentado el mentón en su mano izquierda, aunque el cansancio le hace apoyar casi todo su cuerpo. Es normal que esté agotado, pero no quiere reconocerlo. Poco a poco el velo de oro se levanta, desapareciendo junto a su corona, mientras las lágrimas brotan de un rostro joven y asustado.
+Suaves ondas nacen con cada paso que da. Su largo pelo se mece entre las plumas, reconociéndose por ese brillo rojizo justo antes de desaparecer entre la noche. Con un suspiro guarda sus alas y se deja caer sobre la silla, frente a mí, sujetando el mentón en su mano izquierda, aunque el cansancio le hace apoyar casi todo su cuerpo. Es normal que esté agotado, pero no quiere reconocerlo. Poco a poco el velo de oro se levanta, desapareciendo junto a su corona, mientras las lágrimas brotan de un rostro joven y asustado.
 
 No es justo que alguien tenga que sentir tanto, no lo es. Me arrepiento tanto que no tengo ni palabras para expresarlo. Aún así es él quien quiere disculparse, tal vez porque quien deba hacerlo sea yo. Ahora llora sin hacer ruido, secándose el miedo antes de que roce sus labios; no soy el único que le ha visto sentir, pero aun así sigue sintiendo vergüenza al hacerlo.
 
