@@ -10,9 +10,9 @@ description: Próximas publicaciones, actualizaciones y avisos importantes de EG
 >
 >En esta sección se avisará del próximo contenido.
 
-### 18/12/2020 - El Mundo de Cristal
+### 21/12/2020 - El Mundo de Cristal
 
-### 21/12/2020 - La Trinidad
+### 28/12/2020 - La Trinidad
 
 # Actualizaciones
 
