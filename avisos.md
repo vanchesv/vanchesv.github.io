@@ -6,11 +6,9 @@ description: Próximas publicaciones, actualizaciones y avisos importantes de EG
 
 # Próximas publicaciones
 
->El blog se actualizará cada lunes y viernes entre las 6pm y las 8pm (UTC+1).
->
->En esta sección se avisará del próximo contenido.
+> En esta sección se avisará del próximo contenido.
 
-### 28/12/2020 - La Trinidad
+### Próximamente - La Trinidad
 
 # Actualizaciones
 
